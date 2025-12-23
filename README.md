@@ -3,7 +3,7 @@ This is a landing page I built for the CSE (AI & ML) Department. My main goal wa
 
 Frontend Approach
 I wanted to see how far I could push a project using Pure HTML5 and CSS3.
-Zero JavaScript: Everything you see—including the scrolling announcements and interactive overlays—is built entirely without JS.
+Zero JavaScript: Everything you see including the scrolling announcements and interactive overlays is built entirely without JS.
 Modern Grids: I used CSS Grid to create the "Bento-style" event cards and a custom "Mosaic Gallery" to keep the layout feeling fresh and professional.
 Smooth Motion: All the animations are powered by CSS @keyframes for a lightweight and lag-free experience.
 Performance: Because there’s no heavy scripting, the site loads instantly.
